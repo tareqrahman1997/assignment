@@ -34,21 +34,21 @@ var richmans =[
 
     {
         "id":"4",
-        "name":"Clementine Bauch",
-        "img":"https://i.imgur.com/dEFd4Jh.jpg",
+        "name":"Tareq Rahman",
+        "img":"https://i.imgur.com/A2jrIDf.jpg",
         "company":"Douglas Extension",
-        "salary":480,
-        "email":"Nathan@yesenia.net",
+        "salary":333,
+        "email":"tareqrahmannoor1999@gmail.com",
         "phone":"+92998-3878"
     },
 
     {
         "id":"5",
-        "name":"Eanne Graham",
-        "img":"https://i.imgur.com/r9cg8us.jpg",
+        "name":"Md Sabbir",
+        "img":"https://i.imgur.com/5sTCACE.jpg",
         "company":"Kulas Light",
-        "salary":250,
-        "email":"Sincere@april.biz",
+        "salary":333,
+        "email":"mdsabbir@gmail.com",
         "phone":"+92998-3874"
     },
 
@@ -64,11 +64,11 @@ var richmans =[
 
     {
         "id":"7",
-        "name":"Dennis Schulist",
-        "img":"https://i.imgur.com/ZX3HQmC.jpg",
+        "name":"Niloy Hasan",
+        "img":"https://i.imgur.com/giqgxAi.png",
         "company":"Light",
-        "salary":350,
-        "email":"Karley_Dach@jasper.info",
+        "salary":950,
+        "email":"niloyhasan@gmail.com",
         "phone":"+92998-3811"
     },
 
