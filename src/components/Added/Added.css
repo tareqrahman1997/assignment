@@ -1,0 +1,32 @@
+.friend{
+    display: flex;
+    width:100% ;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.friend h3{
+    color: #365899;
+    font-size: 400;
+
+}
+.friend-img{
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid #dbe3ee;
+    box-shadow: 5px 5px 10px lightslategray ;
+    padding: 10px 10px;
+    margin:15px;
+}
+.add-button{
+    background-color: #365899 ;
+    width: 120px;
+    height: 30px;
+    border:1px solid lightgray ;
+    border-radius:5px solid;
+    cursor: pointer;
+}
+.friend-info{
+    padding: 10px 60px;
+}
