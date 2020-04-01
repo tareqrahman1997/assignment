@@ -17,9 +17,13 @@ const Cart = (props) => {
 
     return (
         <div className="friend-list">
-            <h2>this is friend list</h2>
+            <h2>This is friend list</h2>
             <h5>Add friend:{cart.length}</h5>
-            <p>total salary:{total}</p>
+            <p>Total salary:{total}</p>
+
+            <br/>
+            <br/>
+            <p>Developer By: Tareq Rahman</p>
         
         </div>
     );

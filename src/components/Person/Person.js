@@ -13,7 +13,7 @@ const Person = (props) => {
 
     const handleAddPerson = (props) =>{
         console.log('person added');
-        const newCart = [...cart,person];
+        const newCart = [...cart,props];
         setCart(newCart);
          
     }
@@ -27,13 +27,13 @@ const Person = (props) => {
                         handleAddPerson={handleAddPerson}
                         person={person}></Added>)
                     }
-                
             </div>
             <div className="add-container">
                 <Cart cart={cart}></Cart>
             </div>
-            
+
         </div>
+        
     );
 };
 
